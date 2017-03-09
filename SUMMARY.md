@@ -1,7 +1,7 @@
 # Summary
 
 * [lambda架构简介](README.md)
-* [MapReduce](chapter1.md)
+* [MapReduce](MapReduce.md)
 * [NoSQL--MongoDB](nosql.md)
 * [Hadoop存储-DHFS](mongodb.md)
 * [spark 组件生态系统](spark.md)
