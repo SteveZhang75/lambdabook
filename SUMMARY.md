@@ -1,6 +1,7 @@
 # lambda 架构的实践方案
 
 * [lambda架构简介](README.md)
+   * [传统DB系统的问题](dbsystem/dbissue.md)
 * [MapReduce](MapReduce.md)
 * [NoSQL--MongoDB](nosql.md)
 * [Hadoop存储-DHFS](mongodb.md)
